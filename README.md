@@ -14,15 +14,15 @@ Welcome to the NLP One Piece Luffy Analysis! This project dives deep into the em
 Luffy's journey is filled with adventures, challenges, and profound emotions. This project aims to capture the essence of his character through the lens of data science and natural language processing (NLP). By analyzing his dialogue, we can better understand what drives him, how he feels about certain events, and the characters that have impacted his life.
 
 **🧠 Technologies Used**
-# Python: The powerhouse behind all the magic.
+ Python: The powerhouse behind all the magic.
 
-# BeautifulSoup & Requests: Scraping data from the One Piece Wiki page to get Luffy's thoughts.
+ BeautifulSoup & Requests: Scraping data from the One Piece Wiki page to get Luffy's thoughts.
 
-# Pandas: Structuring and cleaning data like a pro.
+ Pandas: Structuring and cleaning data like a pro.
 
-# NLTK: Extracting meaningful insights with NLP.
+ NLTK: Extracting meaningful insights with NLP.
 
-# Excel: Saving and organizing the analysis in Excel.
+ Excel: Saving and organizing the analysis in Excel.
 **⚙️ How It Works**
 Scraping the Wiki: We start by scraping Luffy’s dialogue from the One Piece Wiki page. This gives us raw, unfiltered data straight from the source.
 
